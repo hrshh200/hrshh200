@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrshh200" alt="hrshh200" /></a> </p>
 
 <div style="display: flex; align-items: center;">
-  <div style="margin-right: 20px;">
+  <div style="flex: 1; margin-right: 20px;">
     - 🌱 I’m currently learning **Next.js**<br>
     - 👨‍💻 All of my projects are available at <a href="https://github.com/hrshh200">https://github.com/hrshh200</a><br>
     - 📝 I regularly write articles on <a href="https://portfolio-harsh-sand.vercel.app/">https://portfolio-harsh-sand.vercel.app/</a><br>
