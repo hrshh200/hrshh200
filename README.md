@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrshh200&label=Profile%20views&color=0e75b6&style=flat" alt="hrshh200" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrshh200" alt="hrshh200" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js**<br>
 - 👨‍💻 All of my projects are available at <a href="https://github.com/hrshh200">https://github.com/hrshh200</a><br>
 - 📝 I regularly write articles on <a href="https://portfolio-harsh-sand.vercel.app/">https://portfolio-harsh-sand.vercel.app/</a><br>
