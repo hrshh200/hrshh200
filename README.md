@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrshh200&label=Profile%20views&color=0e75b6&style=flat" alt="hrshh200" /> </p>
 
-- 🌱 I’m currently learning **AWS and DevOps **<br>
+- 🌱 I’m currently learning AWS and DevOps<br>
 - 👨‍💻 All of my projects are available at <a href="https://github.com/hrshh200">https://github.com/hrshh200</a><br>
 - 📝 I regularly write articles on <a href="https://portfolio-harsh-sand.vercel.app/">https://portfolio-harsh-sand.vercel.app/</a><br>
 - 📫 How to reach me <a href="https://portfolio-harsh-sand.vercel.app/">https://portfolio-harsh-sand.vercel.app/</a>
