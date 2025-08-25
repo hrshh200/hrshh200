@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning React Native and GenAI <br>
 - 👨‍💻 All of my projects are available at <a href="https://github.com/hrshh200?tab=repositories">https://github.com/hrshh200</a><br>
-- 📝 I regularly write articles on <a href="https://portfolio-harsh-sand.vercel.app/">https://portfolio-harsh-sand.vercel.app/</a><br>
 - 📫 How to reach me <a href="https://portfolio-harsh-sand.vercel.app/">https://portfolio-harsh-sand.vercel.app/</a>
 
 
