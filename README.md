@@ -19,6 +19,10 @@
   👉 https://github.com/hrshh200?tab=repositories  
 
 ---
+<p align="center">
+  <img src="https://github.com/hrshh200/hrshh200/blob/main/snake.svg" />
+</p>
+
 
 ### 🛠️ Tech Stack
 
@@ -63,23 +67,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrshh200&theme=tokyonight" />
 </p>
 
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/hrshh200/hrshh200/blob/main/snake.svg" />
-</p>
-
----
 
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://portfolio-harsh-sand.vercel.app/" target="_blank">
+  <!-- <a href="https://portfolio-harsh-sand.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
+  </a> -->
+  <a href="mailto:harsh54088@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
