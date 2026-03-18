@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" alt="coding" width="340" src="https://camo.githubusercontent.com/4f726b05e95c515201c81c1f36fcce49e77ded18bc52ecc43d978e0964f2244d/68747470733a2f2f7068797369637375677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="coding" width="340" src="https://camo.githubusercontent.com/4f726b05e95c515201c81c1f36fcce49e77ded18bc52ecc43d978e0964f2244d/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 ### 👨‍💻 About Me
 
@@ -26,20 +26,21 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github.com/hrshh200/hrshh200/blob/main/snake.svg" />
+</p>
+
+---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
   <img width="32%" src="https://github-readme-stats.vercel.app/api?username=hrshh200&show_icons=true&theme=tokyonight" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrshh200&layout=compact&theme=tokyonight" />
   <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrshh200&theme=tokyonight" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrshh200&layout=compact&theme=tokyonight" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/hrshh200/hrshh200/blob/main/snake.svg" />
-</p>
 
 ---
 
