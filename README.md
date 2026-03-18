@@ -35,10 +35,13 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=hrshh200&show_icons=true&theme=tokyonight" />
-  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrshh200&theme=tokyonight" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrshh200&layout=compact&theme=tokyonight" />
+  <img width="30%" height="170px" src="https://github-readme-stats.vercel.app/api?username=hrshh200&show_icons=true&theme=tokyonight" />
+  
+  <img width="38%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=hrshh200&theme=tokyonight" />
+  
+  <img width="30%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrshh200&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
