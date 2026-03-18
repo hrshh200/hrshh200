@@ -17,8 +17,6 @@
 - 🚀 Love working on **real-world impactful projects**
 - 📂 All my projects:  
   👉 https://github.com/hrshh200?tab=repositories  
-- 🌐 Portfolio:  
-  👉 https://portfolio-harsh-sand.vercel.app/
 
 ---
 
