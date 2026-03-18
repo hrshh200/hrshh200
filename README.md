@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Exploring **React Native & Generative AI**
+- 🌱 Exploring **Azure & Generative AI**
 - 💡 Building **scalable full-stack apps**
 - 🧠 Interested in **ML & AI systems**
 - 🚀 Focused on **real-world impactful projects**
