@@ -78,18 +78,6 @@ Explore my work and contributions:
 [![GitHub Repositories](https://img.shields.io/badge/View_My_Projects-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hrshh200?tab=repositories)
 
 ---
-
-## 🎯 Core Competencies
-
-- **Full-Stack Development**: End-to-end application architecture and deployment
-- **Scalable Architecture**: Designing systems that grow with demand
-- **API Design & Integration**: RESTful and modern API patterns
-- **Database Optimization**: Query optimization and schema design
-- **Cloud Solutions**: AWS and Azure deployments
-- **Problem Solving**: Data structures, algorithms, and system design
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in collaborating on innovative projects and discussing technology trends.
