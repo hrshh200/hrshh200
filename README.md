@@ -69,36 +69,6 @@ I'm a passionate full-stack developer with expertise in building scalable, produ
   <img width="48%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrshh200&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
----
-
-## 📁 Projects & Portfolio
-
-Explore my work and contributions:
-
-[![GitHub Repositories](https://img.shields.io/badge/View_My_Projects-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hrshh200?tab=repositories)
-
----
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on innovative projects and discussing technology trends.
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh54088@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hrshh200)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hrshh200)
-
----
-
-## ⚡ Key Highlights
-
-```
-🔧 Building scalable, production-ready systems
-🎨 Creating responsive, user-friendly interfaces
-📊 Leveraging data to drive decisions
-🚀 Deploying applications to the cloud
-🧠 Exploring the frontiers of AI/ML
-```
-
----
 
 <div align="center">
   <img src="https://github.com/hrshh200/hrshh200/blob/main/snake.svg" alt="GitHub Contributions Graph" />
